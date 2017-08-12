@@ -1,0 +1,19 @@
+{
+  "name": "lojinha",
+  "version": "1.0.0",
+  "description": "API que realiza o redirecionamento para uma pagina de realizacao de pagamentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halfvulcan/lojinha.git"
+  },
+  "author": "Patricia Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halfvulcan/lojinha/issues"
+  },
+  "homepage": "https://github.com/halfvulcan/lojinha#readme"
+}
